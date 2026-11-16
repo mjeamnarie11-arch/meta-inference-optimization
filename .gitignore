@@ -1,0 +1,13 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Local virtual environments
+.venv/
+venv/
+
+# Local environment variables
+.env
