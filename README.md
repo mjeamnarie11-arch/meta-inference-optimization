@@ -31,7 +31,7 @@ The analysis evaluates 50 configurations:
   and 1,000 milliseconds.
 
 ## Data Sources
-See [Data Sources and Preparation](DATA_SOURCES.md) for source versions,
+See [Data Sources and Preparation](data/DATA_SOURCES.md)for source versions,
 validation results, and transformations.
 
 ### Azure LLM Inference Trace
