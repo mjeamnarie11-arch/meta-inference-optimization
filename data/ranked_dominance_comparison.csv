@@ -1,0 +1,3 @@
+,config_id,max_batch_size,max_wait_ms,estimated_supported_rate_rps,p95_ttft_ms,observed_throughput_rps,mean_actual_batch_size,upper_rate_boundary,capacity_estimate_found,is_pareto,throughput_score,responsiveness_score,balanced_score,equity_gap,custom_score
+Highest balanced score among dominated options,C048,16,500,1.25,8504.200847793245,1.2263985051402606,5.882352941176471,False,True,False,1.0,0.9361571348181792,1.9361571348181792,0.06384286518182081,0.9553099943727255
+Lowest balanced score on the frontier,C050,16,1000,1.0,6855.601150545915,0.992484754513949,4.273504273504273,False,True,True,0.6666666666666666,1.0,1.6666666666666665,0.33333333333333337,0.8999999999999999
